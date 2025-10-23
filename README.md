@@ -1,7 +1,7 @@
 Budget Tracker Application
 Overview
 
-Budget Tracker is a Core Java console application to manage income and expenses. It demonstrates hands-on Java programming with real-world transaction handling, totals, and balance calculations.
+Budget Tracker is a Core Java console application for managing income and expenses. This project demonstrates hands-on programming experience in Core Java, including OOP concepts, collections, streams, and concurrency, giving practical exposure at each stage of development.
 
 Features
 
@@ -9,13 +9,13 @@ Add income and expense transactions with category, amount, and date.
 
 View total income, total expenses, and remaining balance.
 
-List all income or expense transactions.
+List all income or expense transactions separately.
 
-Unique 14-digit transaction IDs for each entry.
+Each transaction has a unique 14-digit ID.
 
 Demonstrates thread-safe operations using ReentrantLock.
 
-Uses Java Streams, Collections, and OOP principles for practical Core Java experience.
+Uses Java Streams and Collections for filtering and summing transactions.
 
 Technologies Used
 
@@ -23,9 +23,9 @@ Core Java 17
 
 Object-Oriented Programming (OOP)
 
-Java Streams API
+Java Collections (ArrayList)
 
-Collections (ArrayList)
+Java Streams API
 
 Concurrency (ReentrantLock)
 
@@ -33,12 +33,12 @@ How to Run
 
 Clone the repository:
 
-git clone https://github.com/ManeeshaFullStack/BudgetTrackerApplication.git
+git clone https://github.com/ManeeshaFullStack/BudgetTrackerApplication
 
 
-Open the project in your Java IDE (IntelliJ, Eclipse, etc.).
+Open the project in your preferred Java IDE (Eclipse, IntelliJ, etc.).
 
-Run the TransactionManager class:
+Run the main class:
 TransactionManager.java
 
 Follow the console prompts to add transactions or view reports.
@@ -49,24 +49,26 @@ BudgetManager.java       // Maintains the list of transactions
 
 Learning Highlights
 
-Applied OOP principles with classes, objects, and enums.
+Applied OOP concepts: classes, objects, enums, and encapsulation.
 
-Used Java Streams for filtering, summing, and displaying transactions.
+Practiced Java Streams for filtering, summing, and displaying transactions.
 
 Implemented basic thread safety with ReentrantLock.
 
-Practiced real-world logic for financial management.
+Developed real-world logic for personal finance management.
 
-Improved code structure and readability for Core Java projects.
+Strengthened hands-on Core Java programming skills from design to execution.
 
 GitHub Links
 
-Full repository: https://github.com/ManeeshaFullStack
+Repository for this project: Budget Tracker Application
 
 Direct code link: TransactionManager.java
+
+My GitHub profile : https://github.com/ManeeshaFullStack
 
 Author
 
 Maneesha Sangam
 
-Demonstrates practical, hands-on Core Java development skills, from design to implementation.
+This project reflects practical hands-on experience in Core Java and demonstrates the ability to implement real-world applications while learning.
