@@ -25,23 +25,16 @@ This project demonstrates **hands-on programming experience** in Core Java, incl
 
 ---
 
-## ▶️ How to Run
-1. Clone the repository:
+## ▶️ Links For Direct Code 
+https://github.com/ManeeshaFullStack/BudgetTrackerApplication/blob/master/BudgetTrackerApplication/src/com/budgetTracker/TransactionManager.java
    
-   git clone https://github.com/ManeeshaFullStack/BudgetTrackerApplication
-Open the project in your preferred IDE (Eclipse, IntelliJ, etc.)
-
-Run the main class:
-👉 TransactionManager.java
-
-Follow the console prompts to add transactions or view reports
-
-🧩 Project Structure
+  
+## 🧩 Project Structure
 
 TransactionManager.java  // Handles user interaction and transaction operations
 BudgetManager.java       // Maintains the list of transactions
 
-💡 Learning Highlights
+## 💡 Learning Highlights
 Applied OOP concepts: classes, objects, enums, and encapsulation
 
 Practiced Java Streams for filtering, summing, and displaying transactions
@@ -52,14 +45,14 @@ Developed real-world logic for personal finance management
 
 Strengthened hands-on Core Java programming skills from design to execution
 
-🔗 GitHub Links
-Repository: Budget Tracker Application
+## 🔗 GitHub Links
+Project Repository: https://github.com/ManeeshaFullStack/BudgetTrackerApplication
 
-Direct Code: TransactionManager.java
+Direct Code: https://github.com/ManeeshaFullStack/BudgetTrackerApplication/blob/master/BudgetTrackerApplication/src/com/budgetTracker/TransactionManager.java
 
-My GitHub Profile: https://github.com/ManeeshaFullStack
+## My GitHub Profile: https://github.com/ManeeshaFullStack
 
 👩‍💻## Author ##
 Maneesha Sangam
 
-This project reflects practical hands-on experience in Core Java and demonstrates the ability to build real-world applications while learning.
+This project reflects **practical  hands-on experience in Core Java** and demonstrates the **ability to build real-world applications** while learning.
