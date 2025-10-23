@@ -1,7 +1,7 @@
 Budget Tracker Application
 Overview
 
-Budget Tracker is a Core Java console application for managing income and expenses. This project demonstrates hands-on experience with Java, including object-oriented design, Java Streams, and basic concurrency handling. Users can track transactions, calculate totals, view balances, and see categorized transaction histories.
+Budget Tracker is a Core Java console application to manage income and expenses. It demonstrates hands-on Java programming with real-world transaction handling, totals, and balance calculations.
 
 Features
 
@@ -15,9 +15,11 @@ Unique 14-digit transaction IDs for each entry.
 
 Demonstrates thread-safe operations using ReentrantLock.
 
+Uses Java Streams, Collections, and OOP principles for practical Core Java experience.
+
 Technologies Used
 
-Java 17
+Core Java 17
 
 Object-Oriented Programming (OOP)
 
@@ -55,7 +57,7 @@ Implemented basic thread safety with ReentrantLock.
 
 Practiced real-world logic for financial management.
 
-Improved code structure and readability for future projects.
+Improved code structure and readability for Core Java projects.
 
 GitHub Links
 
