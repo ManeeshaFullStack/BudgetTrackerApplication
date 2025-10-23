@@ -1,74 +1,65 @@
-Budget Tracker Application
-Overview
+# 🧾 Budget Tracker Application
 
-Budget Tracker is a Core Java console application for managing income and expenses. This project demonstrates hands-on programming experience in Core Java, including OOP concepts, collections, streams, and concurrency, giving practical exposure at each stage of development.
+## 📘 Overview
+**Budget Tracker** is a **Core Java console application** for managing **income and expenses**.  
+This project demonstrates **hands-on programming experience** in Core Java, including **OOP concepts**, **collections**, **streams**, and **concurrency**, giving practical exposure at each stage of development.
 
-Features
+---
 
-Add income and expense transactions with category, amount, and date.
+## 🚀 Features
+- Add **income** and **expense** transactions with *category, amount, and date*  
+- View **total income**, **total expenses**, and **remaining balance**  
+- List all **income** or **expense** transactions separately  
+- Each transaction has a **unique 14-digit ID**  
+- Demonstrates **thread-safe operations** using `ReentrantLock`  
+- Uses **Java Streams** and **Collections** for filtering and summing transactions  
 
-View total income, total expenses, and remaining balance.
+---
 
-List all income or expense transactions separately.
+## 🛠️ Technologies Used
+- **Core Java 17**  
+- **Object-Oriented Programming (OOP)**  
+- **Java Collections (`ArrayList`)**  
+- **Java Streams API**  
+- **Concurrency (`ReentrantLock`)**
 
-Each transaction has a unique 14-digit ID.
+---
 
-Demonstrates thread-safe operations using ReentrantLock.
-
-Uses Java Streams and Collections for filtering and summing transactions.
-
-Technologies Used
-
-Core Java 17
-
-Object-Oriented Programming (OOP)
-
-Java Collections (ArrayList)
-
-Java Streams API
-
-Concurrency (ReentrantLock)
-
-How to Run
-
-Clone the repository:
-
-git clone https://github.com/ManeeshaFullStack/BudgetTrackerApplication
-
-
-Open the project in your preferred Java IDE (Eclipse, IntelliJ, etc.).
+## ▶️ How to Run
+1. Clone the repository:
+   
+   git clone https://github.com/ManeeshaFullStack/BudgetTrackerApplication
+Open the project in your preferred IDE (Eclipse, IntelliJ, etc.)
 
 Run the main class:
-TransactionManager.java
+👉 TransactionManager.java
 
-Follow the console prompts to add transactions or view reports.
+Follow the console prompts to add transactions or view reports
 
-Project Structure
+🧩 Project Structure
+
 TransactionManager.java  // Handles user interaction and transaction operations
 BudgetManager.java       // Maintains the list of transactions
 
-Learning Highlights
+💡 Learning Highlights
+Applied OOP concepts: classes, objects, enums, and encapsulation
 
-Applied OOP concepts: classes, objects, enums, and encapsulation.
+Practiced Java Streams for filtering, summing, and displaying transactions
 
-Practiced Java Streams for filtering, summing, and displaying transactions.
+Implemented basic thread safety with ReentrantLock
 
-Implemented basic thread safety with ReentrantLock.
+Developed real-world logic for personal finance management
 
-Developed real-world logic for personal finance management.
+Strengthened hands-on Core Java programming skills from design to execution
 
-Strengthened hands-on Core Java programming skills from design to execution.
+🔗 GitHub Links
+Repository: Budget Tracker Application
 
-GitHub Links
+Direct Code: TransactionManager.java
 
-Repository for this project: [Budget Tracker Application](https://github.com/ManeeshaFullStack/BudgetTrackerApplication)
+My GitHub Profile: https://github.com/ManeeshaFullStack
 
-Direct code link: [TransactionManager.java](https://github.com/ManeeshaFullStack/BudgetTrackerApplication/blob/master/BudgetTrackerApplication/src/com/budgetTracker/TransactionManager.java)
-
-My GitHub profile : https://github.com/ManeeshaFullStack
-
-Author
-
+👩‍💻## Author ##
 Maneesha Sangam
 
-This project reflects practical hands-on experience in Core Java and demonstrates the ability to implement real-world applications while learning.
+This project reflects practical hands-on experience in Core Java and demonstrates the ability to build real-world applications while learning.
