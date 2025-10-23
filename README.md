@@ -61,7 +61,7 @@ Strengthened hands-on Core Java programming skills from design to execution.
 
 GitHub Links
 
-Repository for this project: Budget Tracker Application
+Repository for this project: [Budget Tracker Application](https://github.com/ManeeshaFullStack/BudgetTrackerApplication)
 
 Direct code link: [TransactionManager.java](https://github.com/ManeeshaFullStack/BudgetTrackerApplication/blob/master/BudgetTrackerApplication/src/com/budgetTracker/TransactionManager.java)
 
