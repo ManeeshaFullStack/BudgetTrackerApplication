@@ -63,7 +63,7 @@ GitHub Links
 
 Repository for this project: Budget Tracker Application
 
-Direct code link: TransactionManager.java
+Direct code link: [TransactionManager.java](https://github.com/ManeeshaFullStack/BudgetTrackerApplication/blob/master/BudgetTrackerApplication/src/com/budgetTracker/TransactionManager.java)
 
 My GitHub profile : https://github.com/ManeeshaFullStack
 
