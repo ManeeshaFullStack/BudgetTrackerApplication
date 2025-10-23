@@ -97,7 +97,7 @@ public class TransactionManager {
 	// Adding income
 	private void addIncome() {
 		ReentrantLock lock = new ReentrantLock(); // The project is single-threaded, but ReentrantLock was used to
-													// demonstrate understanding of thread-safety.
+		// demonstrate understanding of thread-safety.
 		lock.lock();
 
 		var t = new Transaction();
@@ -190,6 +190,7 @@ public class TransactionManager {
 		totalExpense();
 		double remaing_amount = this.totalIncome - this.totalExpense;
 		System.out.println("Balence amount: " + remaing_amount);
+		System.out.println();
 	}
 
 	// printiong the list of income transactions
