@@ -31,9 +31,9 @@ https://github.com/ManeeshaFullStack/BudgetTrackerApplication/blob/master/Budget
   
 ## 🧩 Project Structure
 
-TransactionManager.java  // Handles user interaction and transaction operations
+TransactionManager.java            // Handles user interaction and transaction operations
 
-BudgetManager.java       // Maintains the list of transactions
+BudgetManager.java                 // Maintains the list of transactions
 
 ## 💡 Learning Highlights
 Applied **OOP concepts**: classes, objects, enums, and encapsulation
@@ -51,9 +51,10 @@ Project Repository: https://github.com/ManeeshaFullStack/BudgetTrackerApplicatio
 
 Direct Code: https://github.com/ManeeshaFullStack/BudgetTrackerApplication/blob/master/BudgetTrackerApplication/src/com/budgetTracker/TransactionManager.java
 
-## My GitHub Profile: https://github.com/ManeeshaFullStack
+ **My GitHub Profile**: https://github.com/ManeeshaFullStack
 
 👩‍💻 Author 
+
 **Maneesha Sangam**
 
 This project reflects **practical  hands-on experience in Core Java** and demonstrates the **ability to build real-world applications** while learning.
